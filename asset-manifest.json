@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Microdegree-/static/css/main.905fb3e0.chunk.css",
+    "main.css": "/Microdegree-/static/css/main.06352d69.chunk.css",
     "main.js": "/Microdegree-/static/js/main.9493bbed.chunk.js",
     "main.js.map": "/Microdegree-/static/js/main.9493bbed.chunk.js.map",
     "runtime-main.js": "/Microdegree-/static/js/runtime-main.c8a23f21.js",
@@ -8,13 +8,13 @@
     "static/js/2.016d8f74.chunk.js": "/Microdegree-/static/js/2.016d8f74.chunk.js",
     "static/js/2.016d8f74.chunk.js.map": "/Microdegree-/static/js/2.016d8f74.chunk.js.map",
     "index.html": "/Microdegree-/index.html",
-    "static/css/main.905fb3e0.chunk.css.map": "/Microdegree-/static/css/main.905fb3e0.chunk.css.map",
+    "static/css/main.06352d69.chunk.css.map": "/Microdegree-/static/css/main.06352d69.chunk.css.map",
     "static/js/2.016d8f74.chunk.js.LICENSE.txt": "/Microdegree-/static/js/2.016d8f74.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c8a23f21.js",
     "static/js/2.016d8f74.chunk.js",
-    "static/css/main.905fb3e0.chunk.css",
+    "static/css/main.06352d69.chunk.css",
     "static/js/main.9493bbed.chunk.js"
   ]
 }
